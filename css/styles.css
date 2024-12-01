@@ -423,7 +423,7 @@ h1, h2, h3, h4 {
 .form-place {
     height: 687px;
     flex-wrap: wrap;
-    background-image: url(../images/last-image.jpg);
+    background-image: url(./images/last-image.jpg);
     background-size: cover;       /* Зображення заповнює весь блок */
     background-position: center;  /* Центрування зображення */
 }
